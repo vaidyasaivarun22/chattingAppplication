@@ -4,7 +4,6 @@
 }
 .brand{
     color: #187498;
-
 }
 body{
     color:black;
@@ -67,4 +66,10 @@ body{
 button.btn{
     background-color:#187498;
     width: 19%;
+}
+
+.try{
+    text-align: center;
+    display: block;
+    margin: auto;
 }
